@@ -32,13 +32,3 @@ Backend:
 4. Ask: "What is total sales by region?"
 5. View table and chart response
 
-## Run Locally
-
-### Backend
-
-```bash
-cd backend
-python -m venv .venv
-.venv\Scripts\activate
-pip install -r requirements.txt
-uvicorn app.main:app --reload# AskSheets
