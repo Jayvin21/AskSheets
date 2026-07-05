@@ -258,3 +258,10 @@ Frontend renders the result
 This keeps the app safe while expanding natural-language capability.
 
 ---
+
+## License
+
+Copyright © 2026 Jayvin Parmar. All rights reserved.
+
+This project is shared publicly for portfolio and demonstration purposes only.
+No permission is granted to copy, modify, distribute, sublicense, or use this code or product design for commercial purposes without written consent.
